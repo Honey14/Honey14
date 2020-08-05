@@ -5,7 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@honeysonwani-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/honey_sonwani)](https://twitter.com/honey_sonwani)
 [![Gmail Badge](https://img.shields.io/badge/-honeysonwani88-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:honeysonwani88@gmail.com)](mailto:honeysonwani88@gmail.com)
 
-I'm an Android developer who's also interested in learning more about about how the computer and the human brain works. 
+I'm an Android developer who's also interested in learning more about about how the computer and the human brain works.
+
 I work at [Obvious](https://obvious.in/) as a Product Engineer.
 <!--
 **Honey14/Honey14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
