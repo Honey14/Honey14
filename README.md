@@ -7,7 +7,7 @@
 
 I'm an Android developer who's also interested in learning more about about how the computer and the human brain works.
 
-I work at [Obvious](https://obvious.in/) as a Product Engineer.
+I work at [BookMyShow](https://in.bookmyshow.com/) as a Product Android Engineer.
 <!--
 **Honey14/Honey14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
